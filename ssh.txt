@@ -1,0 +1,5 @@
+1. Create the ssh key pair using ssh-keygen command.
+2. Copy and install the public ssh key using ssh-copy-id command on a Linux or Unix server.
+3. Add yourself to sudo or wheel group admin account.
+4. Disable the password login for root account.
+5. Test your password less ssh keys login using ssh user@server-name command.
